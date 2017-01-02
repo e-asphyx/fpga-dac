@@ -1,0 +1,1268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sp",
+				"specMP\t[]float64 ν"
+			],
+			[
+				"D",
+				"DataY\t[]float64 ʈ"
+			],
+			[
+				"R",
+				"RGBA\tstruct ʈ"
+			],
+			[
+				"Pl",
+				"Plot2Data\tstruct ʈ"
+			],
+			[
+				"fun",
+				"func (*DataY)\tfunc (...) {...} ʂ"
+			],
+			[
+				"filter",
+				"filterOrig\t[4]float64 ν"
+			],
+			[
+				"Lo",
+				"Log10\tfloat64 ƒ"
+			],
+			[
+				"p",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"FF",
+				"FFTReal\t[]complex128 ƒ"
+			],
+			[
+				"Ma",
+				"MaxInt16\t Ɩ"
+			],
+			[
+				"I",
+				"MaxInt16\t Ɩ"
+			],
+			[
+				"ma",
+				"math\t package ρ"
+			],
+			[
+				"Sm",
+				"SmallestNonzeroFloat64\t Ɩ"
+			],
+			[
+				"roo",
+				"rootsToCoefficients\t[]float64 ƒ"
+			],
+			[
+				"func",
+				"func (*FilterCoef)\tfunc (...) {...} ʂ"
+			],
+			[
+				"S",
+				"Sort\t ƒ"
+			],
+			[
+				"ColorB",
+				"ColorBlue\tgnuplot.NamedColor ν"
+			],
+			[
+				"C",
+				"Cos\tfloat64 ƒ"
+			],
+			[
+				"P",
+				"Pi\t Ɩ"
+			],
+			[
+				"Y",
+				"YLabel\tstring ν"
+			],
+			[
+				"freqz",
+				"freqzTwoPole\t[][2]float64 ν"
+			],
+			[
+				"Sc",
+				"ScaleDb\t Ɩ"
+			],
+			[
+				"Sca",
+				"ScaleLog\t Ɩ"
+			],
+			[
+				"X",
+				"XScale\tScale ν"
+			],
+			[
+				"L",
+				"YLog\tbool ν"
+			],
+			[
+				"g",
+				"gnuplot\t package ρ"
+			],
+			[
+				"Bi",
+				"BisectionTolerance\t Ɩ"
+			],
+			[
+				"dc",
+				"dcToNyquistDb\tfloat64 ν"
+			],
+			[
+				"imp",
+				"import\timport (...) ʂ"
+			],
+			[
+				"lo",
+				"lout\tint16 ν"
+			],
+			[
+				"Min",
+				"MinInt16\t Ɩ"
+			],
+			[
+				"Fi",
+				"FilterCoef\tstruct ʈ"
+			],
+			[
+				"F",
+				"Filter\tstruct ʈ"
+			],
+			[
+				"B",
+				"BiquadCoef\tstruct ʈ"
+			],
+			[
+				"Pri",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"sq",
+				"Sqrt\tfloat64 ƒ"
+			],
+			[
+				"t",
+				"theta\tfloat64 ν"
+			],
+			[
+				"E",
+				"Exp\tfloat64 ƒ"
+			],
+			[
+				"g0",
+				"g0max\tfloat64 ν"
+			],
+			[
+				"c",
+				"Cos\tfloat64 ƒ"
+			],
+			[
+				"f",
+				"fx0\tfloat64 ν"
+			],
+			[
+				"im",
+				"import\timport (...) ʂ"
+			],
+			[
+				"FPN",
+				"FPNum\tint64 ʈ"
+			],
+			[
+				"fp",
+				"fpBits\t Ɩ"
+			],
+			[
+				"Fp",
+				"FpOne\t Ɩ"
+			],
+			[
+				"In",
+				"Int63n\tint64 ƒ"
+			],
+			[
+				"FP",
+				"FPNum\tint64 ʈ"
+			],
+			[
+				"Sp",
+				"Sprintf\tstring ƒ"
+			],
+			[
+				"fu",
+				"func (*FPNum)\tfunc (...) {...} ʂ"
+			],
+			[
+				"in",
+				"Int31n\tint32 ƒ"
+			],
+			[
+				"b",
+				"bufMask\t Ɩ"
+			],
+			[
+				"i",
+				"idx\tint ν"
+			],
+			[
+				"rdy",
+				"rdy_strobe"
+			],
+			[
+				"bu",
+				"buf_sz"
+			],
+			[
+				"ra",
+				"rand"
+			],
+			[
+				"pa",
+				"part_2"
+			],
+			[
+				"T",
+				"TAP0"
+			],
+			[
+				"w",
+				"wresult"
+			],
+			[
+				"rd",
+				"rdy_n"
+			],
+			[
+				"r",
+				"rdy"
+			],
+			[
+				"su",
+				"sum_stage6_0"
+			],
+			[
+				"st",
+				"stage\t ν"
+			],
+			[
+				"rou",
+				"round_addition"
+			],
+			[
+				"ro",
+				"round_addition"
+			],
+			[
+				"ou",
+				"out_buf"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"da",
+				"data_buf"
+			],
+			[
+				"acc",
+				"acc_bits"
+			],
+			[
+				"buf_",
+				"buf_sz_bits"
+			],
+			[
+				"stop",
+				"stop1"
+			],
+			[
+				"s",
+				"stopped"
+			],
+			[
+				"rel",
+				"reload2"
+			],
+			[
+				"id",
+				"idx_z"
+			],
+			[
+				"idx",
+				"idx_z"
+			],
+			[
+				"rom",
+				"romdata"
+			],
+			[
+				"sa",
+				"sample_ready"
+			],
+			[
+				"data",
+				"data_ok"
+			],
+			[
+				"ta",
+				"tap_ok"
+			],
+			[
+				"sam",
+				"sample_ready"
+			],
+			[
+				"rom_",
+				"rom_fp_bits"
+			],
+			[
+				"eq",
+				"eqfirest"
+			],
+			[
+				"ge",
+				"getUserAgent\tfunction"
+			],
+			[
+				"na",
+				"navigator\tproperty"
+			],
+			[
+				"get",
+				"getUserAgent\talias"
+			],
+			[
+				"time",
+				"timestamp\ttime.Time ν"
+			],
+			[
+				"Tr",
+				"TrimSpace\tstring ƒ"
+			],
+			[
+				"_",
+				"_locationService\tproperty"
+			],
+			[
+				"Re",
+				"ResolvedEvent\tinterface"
+			],
+			[
+				"ex",
+				"extends\tkeyword"
+			],
+			[
+				"con",
+				"console\tvar"
+			],
+			[
+				"A",
+				"After\tbool ƒ"
+			],
+			[
+				"G",
+				"GetLastLoginEvents\t[]*LoginEventModel, error ƒ"
+			],
+			[
+				"Use",
+				"UserModel\tstruct ʈ"
+			],
+			[
+				"Las",
+				"LastAddress\tstring ν"
+			],
+			[
+				"No",
+				"Now\ttime.Time ƒ"
+			],
+			[
+				"New",
+				"NewLoginEventModel\t*LoginEventModel ƒ"
+			],
+			[
+				"to",
+				"tokenStr\tstring ν"
+			],
+			[
+				"NewUse",
+				"NewUserRequest\tstruct ʈ"
+			],
+			[
+				"Sig",
+				"SignupHeaderComponent\talias"
+			],
+			[
+				"On",
+				"OnInit\talias"
+			],
+			[
+				"Rou",
+				"RouteParams\talias"
+			],
+			[
+				"n",
+				"name\tproperty"
+			],
+			[
+				"Hos",
+				"HostBinding\tvar"
+			],
+			[
+				"Th",
+				"ThanksComponent\talias"
+			],
+			[
+				"Si",
+				"SignupForm\tinterface"
+			],
+			[
+				"ROU",
+				"ROUTER_DIRECTIVES\tconst"
+			],
+			[
+				"Au",
+				"AuthErrorWrongCredentials\t Ɩ"
+			],
+			[
+				"Auth",
+				"AuthErrorWrongCredentials\t Ɩ"
+			],
+			[
+				"Ha",
+				"HandlerFunc\t*mux.Route ƒ"
+			],
+			[
+				"Ge",
+				"GenFullName\tstring ƒ"
+			],
+			[
+				"NewU",
+				"NewUserRequest\tstruct ʈ"
+			],
+			[
+				"h",
+				"hookSub\tproperty"
+			],
+			[
+				"decodeU",
+				"decodeURIComponent\tfunction"
+			],
+			[
+				"en",
+				"encodeURIComponent\tfunction"
+			],
+			[
+				"co",
+				"console\tvar"
+			],
+			[
+				"decode",
+				"decodeURIComponent\tfunction"
+			],
+			[
+				"enco",
+				"encodeURIComponent\tfunction"
+			],
+			[
+				"l",
+				"loggedIn\tgetter"
+			],
+			[
+				"IA",
+				"IAuthConfig\tinterface"
+			],
+			[
+				"token",
+				"TokenService\talias"
+			],
+			[
+				"Token",
+				"TokenService\talias"
+			],
+			[
+				"De",
+				"DefaultErrorId\tstring ʈ"
+			],
+			[
+				"tok",
+				"tokenString\t ν"
+			],
+			[
+				"Fr",
+				"FromName\tstring ν"
+			],
+			[
+				"e",
+				"emailWorker\t*mailer.Worker ν"
+			],
+			[
+				"H",
+				"HTML\t[]byte ν"
+			],
+			[
+				"Ne",
+				"NewWriter\t*multipart.Writer ƒ"
+			],
+			[
+				"te",
+				"textBuf\tbytes.Buffer ν"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Dither/solve_ns.go",
+			"settings":
+			{
+				"buffer_size": 5380,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Dither/dither.go",
+			"settings":
+			{
+				"buffer_size": 3012,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"forma",
+				"TypeScript: Format Document"
+			],
+			[
+				"to",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/asphyx/Projects/FIR",
+		"/Users/asphyx/Projects/FIR/Dither",
+		"/Users/asphyx/Projects/go/src/github.com/e-asphyx/go-gnuplot",
+		"/Users/asphyx/Projects/go/src/github.com/e-asphyx/dsputils"
+	],
+	"file_history":
+	[
+		"/Users/asphyx/Projects/go/src/github.com/e-asphyx/go-gnuplot/gnuplot.go",
+		"/Users/asphyx/Projects/go/src/github.com/e-asphyx/go-gnuplot/colors.go",
+		"/Users/asphyx/Projects/FIR/Dither/dither_iir.go",
+		"/Users/asphyx/Projects/go/src/github.com/e-asphyx/dsputils/coef.go",
+		"/Users/asphyx/Projects/go/src/github.com/e-asphyx/dsputils/freqz_test.go",
+		"/Users/asphyx/Projects/go/src/github.com/e-asphyx/dsputils/freqz.go",
+		"/Users/asphyx/Projects/go/src/github.com/e-asphyx/go-gnuplot/gnuplot_test.go",
+		"/Users/asphyx/Projects/go/src/github.com/e-asphyx/dsputils/polezero.go",
+		"/Users/asphyx/Projects/FIR/Dither/solve.go",
+		"/Users/asphyx/Projects/FIR/Dither/dither.go",
+		"/Users/asphyx/Projects/FIR/Dither/dither_fp.go",
+		"/Users/asphyx/Projects/FIR/Dither/dither.v",
+		"/Users/asphyx/Projects/FIR/Dither/dither_tb.v",
+		"/Users/asphyx/Projects/FIR/table.go",
+		"/Users/asphyx/Projects/FIR/Serial/serial.v",
+		"/Users/asphyx/Projects/FIR/Serial/serial_tb.v",
+		"/Users/asphyx/Projects/FIR/Dither/lipshitz.txt",
+		"/Users/asphyx/Projects/FIR/Dither/lfsr_tb.v",
+		"/Users/asphyx/Projects/FIR/Dither/tst.v",
+		"/Users/asphyx/Projects/FIR/Dither/lfsr.v",
+		"/Users/asphyx/Projects/FIR/Serial/rom.v",
+		"/Users/asphyx/Projects/FIR/Parallel/fir_parallel.v",
+		"/Users/asphyx/Projects/FIR/tmp.txt",
+		"/Users/asphyx/Projects/FIR/parallel.go",
+		"/Users/asphyx/Projects/FIR/tree.go",
+		"/Users/asphyx/Projects/FIR/Full/serial_tb.v",
+		"/Users/asphyx/Projects/FIR/Full/serial.v",
+		"/Users/asphyx/Projects/FIR/Full/rom.v",
+		"/Users/asphyx/Projects/FIR/Full/filter.txt",
+		"/Users/asphyx/Projects/FIR/Full/filter.mem",
+		"/Users/asphyx/Projects/FIR/48to384.fcf",
+		"/Users/asphyx/Projects/FIR/48to384.txt",
+		"/Users/asphyx/Projects/FIR/rom_1.txt",
+		"/Users/asphyx/Projects/FIR/Halfband/up_2x.v",
+		"/Users/asphyx/Projects/FIR/Halfband/up_8x.v",
+		"/Users/asphyx/Projects/FIR/Halfband/rom_1.v",
+		"/Users/asphyx/Projects/FIR/Verilog/rom_1.v",
+		"/Users/asphyx/Projects/FIR/Verilog/up_8x.v",
+		"/Users/asphyx/Projects/FIR/Verilog/up_8x.sdc",
+		"/Users/asphyx/Projects/FIR/Verilog/up_2x.v",
+		"/Users/asphyx/Projects/FIR/48to96.fcf",
+		"/Users/asphyx/Downloads/firpmord.m_",
+		"/Users/asphyx/Downloads/remlpord.m",
+		"/Users/asphyx/Documents/Scilab/remlpord.sci",
+		"/Users/asphyx/Documents/Scilab/eqfir.sci",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/accountComponent.ts",
+		"/Users/asphyx/Downloads/firpmord.m",
+		"/Users/asphyx/Projects/FIR/SampleFilter.h",
+		"/Users/asphyx/Projects/FIR/SampleFilter.c",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/ui.ts",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/resetComponent.ts",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/signinComponent.ts",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/accountService.ts",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/models.go",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/oauth.go",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/utils.ts",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/createUserComponent.ts",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/utils.go",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/user.go",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/headers.ts",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/static/templates/account.html",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/locationService.ts",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/email_templates/reset_html.tmpl",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/email_templates/reset.tmpl",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/email_templates/confirm_new_html.tmpl",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/email_templates/confirm_new.tmpl",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/email_templates/confirm.tmpl",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/static/templates/authorize.html",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/static/templates/signup.html",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/static/templates/reset.html",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/email_templates/confirm_html.tmpl",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/email_templates/css.tmpl",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/authorizeComponent.ts",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/static/templates/create.html",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/static/templates/thanks.html",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/confirmComponent.ts",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/signupComponent.ts",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/headerComponent.ts",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/loginComponent.ts",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/completeComponent.ts",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/static/templates/login.html",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/scss/application.scss",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/.gitignore",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/signupComponent.ts__",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/app.ts",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/config.json",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/scss/_color-scheme.scss",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-files/mailer/mailer.go",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-files/mailer/mailgun.go",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/jwt.ts",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/tokenService.ts",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/main.go",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/oauthData.ts",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/boot.ts",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/config.go",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/middleware.go",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/mailer/mailgun.go",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/mailer/mailer.go",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/config.example.json",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/email_templates/addAccountUser.tmpl",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/email_worker.go",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/mailer/smtp.go",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/endpoint/endpoint.go",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/mailgun/mailgun.go",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/profileService.ts",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/accountServise.ts",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/app/jsonPatch.ts",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/client/client.go",
+		"/Users/asphyx/Projects/go/src/github.com/RangelReale/osin/access.go",
+		"/Users/asphyx/Projects/go/src/github.com/RangelReale/osin/authorize.go",
+		"/Users/asphyx/Projects/go/src/github.com/RangelReale/osin/urivalidate.go",
+		"/Users/asphyx/Projects/go/src/github.com/RangelReale/osin/response_json.go",
+		"/Users/asphyx/Projects/go/src/github.com/RangelReale/osin/response.go",
+		"/Users/asphyx/Projects/go/src/github.com/RangelReale/osin/error.go",
+		"/Users/asphyx/Projects/go/src/github.com/RangelReale/osin/util.go",
+		"/Users/asphyx/Projects/go/src/github.com/RangelReale/osin/example/helper.go",
+		"/Users/asphyx/Projects/go/src/github.com/RangelReale/osin/example/jwttoken/jwttoken.go",
+		"/Users/asphyx/Projects/go/src/github.com/RangelReale/osin/example/simple/simple.go",
+		"/Users/asphyx/Projects/go/src/github.com/RangelReale/osin/example/complete/complete.go",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts/static/index.html",
+		"/Users/asphyx/Library/Application Support/LTspice/lib/cmp/standard.mos",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-engage/models.go",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-engage/user.go",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-engage/oauth.go",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-engage/main.go",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-engage/config.json",
+		"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-engage/config.example.json",
+		"/Users/asphyx/Projects/go/src/github.com/RangelReale/osin/info.go"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.ts",
+			"*.go",
+			"*.ts",
+			"*.go",
+			"*.html,*.ts",
+			"*.ts",
+			"*.html,*.ts",
+			"*.html",
+			"*.go",
+			"*.ts",
+			"*.go",
+			"*.ts,*.html",
+			"*.go",
+			"*.ts,*.html",
+			"*.go",
+			"*",
+			"*.go",
+			"*.ts",
+			"*.html",
+			"*.go",
+			"UserOwner",
+			"*.ts,*.html",
+			"*.ts",
+			"*.go",
+			"*.ts,*.html",
+			"*.ts",
+			"*.ts,*.html",
+			"*.ts",
+			"*.ts,*.html",
+			"*.ts",
+			"*.ts,*.html",
+			"*.ts",
+			"*.",
+			"*.go",
+			"*.ts",
+			"*",
+			"*.ts",
+			"*.go",
+			"*.ts",
+			"*.tsp",
+			"*.go",
+			"*.ts",
+			"*.html",
+			"*.ts",
+			"*.go",
+			"*.ts",
+			"*.go",
+			"*.ts",
+			"*.go",
+			"*",
+			"*.ts",
+			"*.ts,*.html",
+			"*",
+			"*.ts",
+			"*.go,*.ts",
+			"*",
+			"*.go",
+			"*",
+			"*.html",
+			"*.ts",
+			"*.go",
+			"*.html",
+			"*.ts",
+			"*.html",
+			"*",
+			"*.ts",
+			"*.html",
+			"*.go",
+			"*.ts",
+			"*.html",
+			"*.ts",
+			"*.go",
+			"*.ts",
+			"*.html",
+			"*",
+			"*.ts",
+			"*.html",
+			"*.ts",
+			"*.html",
+			"*",
+			"*.ts",
+			"<open folders>",
+			"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-app/app,/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-app/*.go",
+			"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-app,-*.js,-*node_modules*,-*.d.ts",
+			"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-app,-*.js,-*node_modules*",
+			"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-app",
+			"/Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-app/static/templates",
+			"*.ts",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"PlotDa",
+			"fmt",
+			" ",
+			"{\\s*(\\d)\\s*}",
+			"(\\w) (\\W)",
+			"(\\W) (\\w)",
+			"{(\\d)}",
+			"\\\\\\\\",
+			"\\s(\\W)",
+			"(\\W)\\s",
+			"\\\\\\\\",
+			"([ab])(\\d)",
+			"Reg(\\d)",
+			"\\[k\\]",
+			"fpBits",
+			"float32",
+			" e",
+			"sample_ready",
+			"clk",
+			"(sum_stage\\d+_\\d+).*$",
+			"sum_stage0",
+			"(mul_\\d+_\\d+).*$",
+			"data",
+			"tap",
+			"out",
+			"bits",
+			"rom_bi",
+			"devs",
+			"fsamp",
+			"gd",
+			"fsamp",
+			"=",
+			";",
+			" ",
+			"Even",
+			"UrlEncodedHeaders",
+			"AddLo",
+			"LoginE",
+			"AddLogin",
+			"getRemote",
+			"RemoteAddr",
+			"lastLo",
+			"loca",
+			"locat",
+			"region",
+			"country_name",
+			"ors.Records",
+			"updateLa",
+			"updateLastAddress",
+			"last_address",
+			"LastA",
+			"UserMessage",
+			"Data",
+			"send_",
+			"['\"]Reset['\"]",
+			"emailCtl",
+			"token",
+			"UrlEncodedHeaders",
+			"Req",
+			"Json",
+			"signupEm",
+			"ngModel",
+			"signupFormCtl",
+			"signupF",
+			"authorize-header",
+			"[\"']Reset[\"']",
+			"next",
+			"[\"']Login[\"']",
+			"[\"']Signup[\"']",
+			"\"create_user\"",
+			"completeComponent",
+			"[\"']Signup[\"']",
+			"ngIf",
+			"message",
+			"ale",
+			"Aler",
+			"Form",
+			"CanAc",
+			"CanNav",
+			"centered-form",
+			"line-he",
+			"line-",
+			"p {",
+			"RequestH",
+			"text-a",
+			"flexbox-",
+			"centere",
+			"text-",
+			"signup-form",
+			"centere",
+			"signu",
+			"Signu",
+			"signup",
+			"home-si",
+			"flexbox-..center",
+			"flexbox-??center",
+			"center",
+			"claims\\[",
+			"sendN",
+			"sendC",
+			"sendCon",
+			"JSO",
+			"conf\\.",
+			"Data",
+			" p ",
+			"ToName",
+			"BaseU",
+			"sendConfirmation",
+			"[\\t\\n]",
+			"routeT",
+			"tokenS",
+			"ProfileService",
+			"this\\.next",
+			"next:",
+			"loggedIn",
+			"clear",
+			"loggedIn",
+			"Subject",
+			"logg",
+			"upda",
+			"noJ",
+			"IAu",
+			"geter",
+			"parseToken",
+			"localSto",
+			"tokenNotExpired",
+			"passwordForm",
+			"token"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"$1",
+			"$1$2",
+			"$1",
+			"\\\\\\\\\\n",
+			"$1",
+			"\\\\\\\\\\n",
+			"\\\\\\n",
+			"b.$1[$2]",
+			"b.buf[$1]",
+			"",
+			"FPBits",
+			"float64",
+			" prod",
+			"wren",
+			"$1;",
+			"mul_0",
+			"$1;",
+			"romdata",
+			"data",
+			" = ",
+			"; ",
+			"",
+			",",
+			"",
+			",",
+			"RenderJSON",
+			",",
+			", ",
+			"dbc\\.\\1",
+			"\\1db.Key",
+			"\\1db.Bin",
+			"\\1db.Key",
+			"\\1db.Bin",
+			"\\1db.SecondaryIndex",
+			"\\1db.ModelOptions",
+			"Connection",
+			"Connec",
+			"Connection",
+			"ae-action",
+			" ae-action",
+			" ",
+			"vmRegisterHandler",
+			"vmRegisterOp",
+			"op",
+			"\"",
+			"as.",
+			"]]",
+			"[[",
+			"]]",
+			"[[",
+			"Auth",
+			"Session",
+			"_relay->",
+			"X_",
+			"0.65s",
+			"0.75s",
+			"",
+			"trans",
+			"hx-net hx-transparent",
+			"hx-block",
+			"hx-link hx-net",
+			"hx-link",
+			"hx-inner",
+			"hx-outer",
+			"\".hx-link\"",
+			"hx-link",
+			"hx-mark",
+			"hx-node",
+			"\".hx-node\"",
+			"\".hx-base\"",
+			"links",
+			"/div",
+			"<div",
+			"data-top=\"\\1\" data-left=\"\\2\"",
+			"li",
+			"\t<div class=\"hexpage-node\" style=\"top:0; left:21.65%;\"></div> <!-- 25*sqrt3/2 -->\n\t<div class=\"hexpage-node\" style=\"top:0; left:78.35%;\"></div>\n\t<div class=\"hexpage-node\" style=\"top:50%; left:-7.74%;\"></div> <!-- 1/sqrt3 - 1/2 -->\n\t<div class=\"hexpage-node\" style=\"top:50%; left:107.74%;\"></div>\n\t<div class=\"hexpage-node\" style=\"top:100%; left:21.65%;\"></div>\n\t<div class=\"hexpage-node\" style=\"top:100%; left:78.35%;\"></div>\n\n\t<!--\n\trr: smaller radius (r) of smaller hexagons\n\trr = 8.1667%\n\tRR = 9.43%\n\t-->\n\n\t<div class=\"hexpage-node\" style=\"top:9.17%; left:35.86%;\"></div>\n\t<div class=\"hexpage-node\" style=\"top:9.17%; left:73.58%;\"></div>\n\t<div class=\"hexpage-node\" style=\"top:17.33%; left:21.71%;\"></div>\n\t<div class=\"hexpage-node\" style=\"top:25.5%; left:17.0%;\"></div>\n\t<div class=\"hexpage-node\" style=\"top:25.5%; left:45.29%;\"></div>\n\t<div class=\"hexpage-node\" style=\"top:25.5%; left:64.15%;\"></div>\n\t<div class=\"hexpage-node\" style=\"top:33.67%; left:87.72%;\"></div>\n\t<div class=\"hexpage-node\" style=\"top:41.83%; left:7.56%;\"></div>\n\t<div class=\"hexpage-node\" style=\"top:50%; left:31.14%;\"></div>\n\t<div class=\"hexpage-node\" style=\"top:50%; left:78.28%;\"></div>\n\t<div class=\"hexpage-node\" style=\"top:58.17%; left:17.0%;\"></div>\n\t<div class=\"hexpage-node\" style=\"top:66.33%; left:50%;\"></div>\n",
+			"li"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Dither/solve_ns.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5304,
+								5377
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2909.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Dither/dither.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3012,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2830,
+								2830
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1379.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/asphyx/Projects/go/src/bitbucket.org/adteria/adteria-accounts":
+	{
+		"height": 100.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 100.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 100.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "fir.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"c",
+				"udprelayd/config.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projects/go/src/bitbucket.org/adteria/adteria-accounts/adteria-accounts.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
